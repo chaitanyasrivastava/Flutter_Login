@@ -4,7 +4,7 @@ The Flutter Login Page is a simple yet elegant authentication interface designed
 ## 📸 Screenshots
 <!-- Add login screen images if available -->
 <p align="center">
-  <img src=assets/images/UI.jpeg" width="300">
+  <img src="assets/images/UI.jpeg" width="300">
 </p>
 
 Key Features:
